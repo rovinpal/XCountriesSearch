@@ -88,7 +88,7 @@ const CountryFlags = () => {
                                     objectFit: "cover",
                                 }}
                             />
-                            <h3 style={{ marginTop: "10px" }}>{country.common}</h3>
+                            <h2 style={{ marginTop: "10px" }}>{country.common}</h2>
                         </div>
                     ))
                 ) : (
